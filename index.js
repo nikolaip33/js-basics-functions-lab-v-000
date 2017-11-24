@@ -1,5 +1,5 @@
 function distanceFromHqInBlocks (dest) {
-  return Math.abs(dest-42)
+  return Math.abs(dest - 42)
 }
 
 function distanceFromHqInFeet (dest) {
@@ -7,6 +7,10 @@ function distanceFromHqInFeet (dest) {
   // calls distanceFromHqInBlocks from inside the distanceFromHqInFeet function
 }
 
-function distanceTravelledInFeet(start,end) {
+function distanceTravelledInFeet(start, end) {
   return Math.abs(start - end) * 264
+}
+
+function calculatesFarePrice(start, end) {
+  
 }
