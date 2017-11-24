@@ -1,5 +1,5 @@
-function distanceFromHqInBlocks (start, end) {
-  return Math.abs(start-end)
+function distanceFromHqInBlocks (dest) {
+  return Math.abs(dest-42)
 }
 
 function distanceFromHqInFeet () {
