@@ -6,3 +6,7 @@ function distanceFromHqInFeet (dest) {
   return distanceFromHqInBlocks(dest)*264;
   // calls distanceFromHqInBlocks from inside the distanceFromHqInFeet function
 }
+
+function distanceTraveledInFeet() {
+  
+}
