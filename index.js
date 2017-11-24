@@ -7,6 +7,6 @@ function distanceFromHqInFeet (dest) {
   // calls distanceFromHqInBlocks from inside the distanceFromHqInFeet function
 }
 
-function distanceTraveledInFeet() {
-  
+function distanceTravelledInFeet() {
+
 }
