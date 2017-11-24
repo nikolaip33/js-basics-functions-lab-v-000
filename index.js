@@ -8,5 +8,5 @@ function distanceFromHqInFeet (dest) {
 }
 
 function distanceTravelledInFeet(start,end) {
-
+  return Math.abs(start-end)
 }
